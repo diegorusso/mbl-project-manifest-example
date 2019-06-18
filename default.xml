@@ -12,7 +12,7 @@
 
   <project name="Freescale/meta-freescale-3rdparty" path="layers/meta-freescale-3rdparty" remote="github"/>
   <project name="imx/meta-fsl-bsp-release" path="layers/meta-fsl-bsp-release" remote="CAF" revision="9867dae67c158e0820bf226bd18b792623e99b25" />
-  <project name="diegorusso/mbl-project-config-example" path="conf" remote="github" revision="master">
+  <project name="diegorusso/mbl-project-config-example" path="conf" remote="github" revision="warrior-dev">
     <linkfile dest="setup-environment" src="setup-environment"/>
     <linkfile dest="setup-environment-internal" src="setup-environment-internal"/>
   </project>
